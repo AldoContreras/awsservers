@@ -1,6 +1,10 @@
+<!DOCTYPE html>
 <html>
-<header><title>This is a Oppsworks practice</title></header>
 <body>
-Server2
+
+<?php
+echo "Server2!";
+?>
+
 </body>
 </html>
